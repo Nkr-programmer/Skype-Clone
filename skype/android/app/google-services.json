@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683947680108",
+    "firebase_url": "https://skype-571de.firebaseio.com",
+    "project_id": "skype-571de",
+    "storage_bucket": "skype-571de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683947680108:android:e290190ad5a05c82621349",
+        "android_client_info": {
+          "package_name": "com.example.skype"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683947680108-3ii7dpjusil5el2ieeqgcosm39nflq9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skype",
+            "certificate_hash": "7ec17ea100d5c281b22d11420f76e5e825815e56"
+          }
+        },
+        {
+          "client_id": "683947680108-a0tsccuseceqvj1t94on98hit1a09fo6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmw0kZPIURLnJroaSqop1VbDxmTZ3Dvg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683947680108-a0tsccuseceqvj1t94on98hit1a09fo6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
