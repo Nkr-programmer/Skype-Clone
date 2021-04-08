@@ -2,6 +2,7 @@
 Building a Skype-Clone in Flutter.
 
 Show some ❤️ and star the repo to support the project Screenshots
+
 <img src="https://user-images.githubusercontent.com/55958579/114072615-19449580-98c0-11eb-8ecb-f0bcc4974055.jpg" width="300px" height="600px" />
 <p float="left">
 <img src="https://user-images.githubusercontent.com/55958579/114078025-10ef5900-98c6-11eb-976a-028faae7730f.jpg" width="300px" height="600px" />
